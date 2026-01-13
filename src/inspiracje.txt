@@ -1,0 +1,4 @@
+1.Nazwa to euruś ktora kojarzy mi sie z waluta euro ktora wywoluje skojarzenia do finansow
+2. Dwa elementy projektu to dzialajaca aplikacja konsolowa i plik zapisu
+3.Dane wejsciowe do aplikacji ktore pomoga zapisac tranzacje to kwota, data w roku miesiacu i dniu, oraz kategoria wplaty np. Subskrybcje
+4. Pomysłem na aplikacje byla moja wlasna potrzeba ale uwazam ze moze ona byc przydatna rowniez moim znajomym

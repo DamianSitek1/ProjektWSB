@@ -1,0 +1,8 @@
+Projekt dotyczy aplikacji do budżetowania. Jest to aplikacja która może pomoc na codzień
+ludziom planowac ich wydatki i tworzyc proste raporty.
+
+W środku programy znajdą się nastepujące funkcje:
+*Dodawanie wydatkow z kategoria i data
+*Raport podsumowujacy wydatki z danego okresu i wykazujacy najwiekszy
+*Zapis danych do pliku tekstowego
+

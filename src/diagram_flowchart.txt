@@ -1,0 +1,30 @@
+START
+  |
+  V
+[Menu Główne - Aplikacja Budżetowa]
+  |
+  +--- [1. Dodaj Wydatek] --------------------> [Wprowadź dane]
+  |                                                 |
+  |                                        (Kwota, Kategoria, Data)
+  |                                                 |
+  |                                                 V
+  |                                          [Dodano do listy]
+  |
+  +--- [2. Generuj Raport] -------------------> [Wybierz Okres]
+  |                                                 |
+  |                                                 V
+  |                                       [Obliczanie Podsumowania]
+  |                                                 |
+  |                                     +-----------+-----------+
+  |                                     |                       |
+  |                             [Suma Wydatków]        [Największy Wydatek]
+  |
+  +--- [3. Zapisz Dane] ----------------------> [Eksport do .txt]
+  |                                                 |
+  |                                                 V
+  |                                        [Dane Zapisane w Pliku]
+  |
+  +--- [4. Wyjście]
+  |
+  V
+KONIEC
